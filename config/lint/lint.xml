@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="FullyQualifiedResource">
+        <option name="import-aliases" value="nl.wykorijnsburger.featuremodule.R as FeatureModuleR" />
+    </issue>
+    <issue id="MissingResourceImportAlias">
+        <option name="import-aliases" value="nl.wykorijnsburger.featuremodule.R as FeatureModuleR" />
+    </issue>
+    <issue id="WrongResourceImportAlias">
+<!--        <option name="import-aliases" value="nl.wykorijnsburger.featuremodule.R as FeatureModuleR" />-->
+    </issue>
+</lint>
